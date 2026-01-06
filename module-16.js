@@ -148,17 +148,67 @@ var fullName = firstName + secondName;
 // console.log(fullName);
 // output--> MobarokTobarok   
 
-console.log(40+'2');
+// console.log(40+'2');
 // output--> 402   [ekta string je tai pasha pashi boshai dibe]
 
-console.log(40-'2');
+// console.log(40-'2');
 // output--> 38   
 
-console.log(40*'2');
+// console.log(40*'2');
 // output--> 80   
 
-console.log(40/'2');
+// console.log(40/'2');
 // output--> 20   
 
 // (-), (*), (/) egular belai "string" ke "number" hishebe dorbe and calculation korbe. Only plus(+) er belai "string" ke "string" hishebe dore pasha pashi boshai dibe.
+
+
+
+
+// -------------------Module-16's Practice Task----------------------------------
+
+// Practice Task----->1
+var money = 1000;
+var apple = 300;
+var orange = 350;
+var totalCost = apple + orange;
+var willReturn = money - totalCost;
+// console.log(willReturn);
+// output--> 350
+
+
+
+// Practice Task------>2
+var physics = 70;
+var chemistry = 66;
+var math = 84.43;
+var biology = 54.07;
+var bangla = 98.57;
+var totalNum = physics + chemistry + math + biology + bangla;
+var avgNum = totalNum/5;
+// console.log(avgNum.toFixed(2));
+
+
+
+// Practice Task----->3
+var a = 128;
+var b = a % 5;
+// console.log(b);
+// output--> 3
+
+
+
+// Practice Task----->4
+const x = isNaN('11');
+// console.log(x);
+const y = isNaN(2-10);
+// console.log(y);
+
+// [isNaN(x)] --> Is Not a Number. 'x' er man number kina cheak kore. 
+// [isNaN()] eta "string" ke age "number" a convert kore. jodi kono "number" ke "string" akare deya hoi tahole age convert kore tarpor dekhe and output dei. 
+
+
+/*---------------------------------------------------------------------------------*/
+/*----------------------------MODULE-16 COMPLETED----------------------------------*/
+/*---------------------------------------------------------------------------------*/
 
