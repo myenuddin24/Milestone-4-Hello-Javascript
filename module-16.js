@@ -8,7 +8,6 @@
 * 3. equle (=) sign
 * 4. veriable's value
 * 5. semiclone
-*
 */ 
 var weight = 20;
 var price = 200;
@@ -52,10 +51,9 @@ var passed = false;
 /* Boolean type a value shudu "true"/"false" hoi. egula javascript er keyword fixed kora. Ei type a "true"/"false" chada r kono value hobe na. */ 
 
 
-// 4.
 
+// "typeof"------------>
 
-// "typeof"----------
 var isRich = true;
 var address = "Mirsarai Chattogram";
 // console.log(typeof isRich);
@@ -91,7 +89,7 @@ var address = "Mirsarai Chattogram";
 
 
 
-// -------------------------something about number...------------------
+/*----------------------something about number...-----------------*/ 
 
 var orangePrice = 20;
 var applePrice = 0.5;
@@ -119,7 +117,7 @@ var total = first+second;
 
 
 
-// -------------------Operation---------------------------------
+/*----------------------------Operation-------------------------------*/ 
 
 var tv = 15000;
 // tv = tv + 1000;   tv'r ager value'r sathe 1000 plus(+).
@@ -165,7 +163,7 @@ var fullName = firstName + secondName;
 
 
 
-// -------------------Module-16's Practice Task----------------------------------
+/*-------------------Module-16's Practice Task-------------------------*/ 
 
 // Practice Task----->1
 var money = 1000;
@@ -208,7 +206,7 @@ const y = isNaN(2-10);
 // [isNaN()] eta "string" ke age "number" a convert kore. jodi kono "number" ke "string" akare deya hoi tahole age convert kore tarpor dekhe and output dei. 
 
 
-/*---------------------------------------------------------------------------------*/
-/*----------------------------MODULE-16 COMPLETED----------------------------------*/
-/*---------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------*/
+/*----------------------------MODULE-16 COMPLETED---------------------------*/
+/*--------------------------------------------------------------------------*/
 
