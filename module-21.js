@@ -294,7 +294,7 @@ const rakibHobby = 'I am learning Programming to become a programmer';
 // Generate a random number between 10 to 20 ---->> 
 const randomNumber = Math.random() * 10 + 10;
 const randomInteger = Math.round(randomNumber);
-console.log(randomInteger);
+// console.log(randomInteger);
 
 
 
